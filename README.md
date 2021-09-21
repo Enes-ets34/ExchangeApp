@@ -1,3 +1,3 @@
 # ExchangeApp
  Döviz Uygulaması 
- Kaynak : https://exchangeratesapi.io/
+ Api : https://exchangeratesapi.io/
